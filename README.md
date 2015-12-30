@@ -2,4 +2,4 @@
 
 ##メンバー
 
-＊testmember
+*testmember
